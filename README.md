@@ -1,4 +1,5 @@
 ## Paper
+See PDF in repo or 
 https://www.sharelatex.com/6679699354fdqvmrgbtkrw
 
 ## Workflow
